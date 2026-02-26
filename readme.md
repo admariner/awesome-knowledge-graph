@@ -28,6 +28,7 @@
 
 * [AgensGraph](https://bitnine.net/agensgraph/) - multi-model graph database with SQL and Cypher support based on PostgreSQL
 * [ArangoDB](https://www.arangodb.com/) - highly available Multi-Model NoSQL database
+* ArcadeDB](https://arcadedb.com/) - open-source multi-model database with graph, document and key-value support, ACID transactions, SQL and Cypher query languages
 * [Atomic-Server](https://crates.io/crates/atomic-server/) - open-source type-safe graph database server with GUI, written in rust. Supports [Atomic Data](docs.atomicdata.dev/), JSON & RDF.
 * [Blazegraph](https://github.com/blazegraph/database) - GPU accelerated graph database
 * [Cayley](https://github.com/cayleygraph/cayley) - open source database written in Go
